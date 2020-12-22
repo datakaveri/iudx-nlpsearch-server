@@ -1,0 +1,4 @@
+outs:
+- md5: c723b72ced2dc61536850ec36bb739cc
+  size: 178498184
+  path: best-model.pt
